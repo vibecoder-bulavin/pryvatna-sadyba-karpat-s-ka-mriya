@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+Sitemap: https://vibecoder-bulavin.github.io/pryvatna-sadyba-karpat-s-ka-mriya/sitemap.xml
